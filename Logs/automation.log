@@ -1,0 +1,190 @@
+11/07/2024 01:16:54 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/07/2024 01:17:10 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 01:17:31 PM: INFO: *** Test_016_ContactDetails_Attachment ***
+11/07/2024 01:17:41 PM: INFO: *** Test_006_Dependents ***
+11/07/2024 01:17:44 PM: INFO: *** Test_018_Dependents_Attachment ***
+11/07/2024 01:17:47 PM: INFO: *** Test_009_Education ***
+11/07/2024 01:17:51 PM: INFO: *** Test_005_Emergency_contacts ***
+11/07/2024 01:17:54 PM: INFO: *** Test_017_EmergencyContacts_Attachment ***
+11/07/2024 01:17:56 PM: INFO: *** Test_007_Immigration ***
+11/07/2024 01:17:59 PM: INFO: *** Test_019_Immigration_Attachment ***
+11/07/2024 01:18:01 PM: INFO: *** Test_011_Languages ***
+11/07/2024 01:18:04 PM: INFO: *** Test_012_License ***
+11/07/2024 01:18:07 PM: INFO: *** Started Page Title Test ***
+11/07/2024 01:18:07 PM: INFO: *** Opening the url ***
+11/07/2024 01:18:09 PM: INFO: *** Started Login Test ***
+11/07/2024 01:18:12 PM: INFO: *** Started Test_002_DDT_Login ***
+11/07/2024 01:18:15 PM: INFO: *** Test_013_Memberships ***
+11/07/2024 01:18:17 PM: INFO: *** Test_021_Membership_Attachment ***
+11/07/2024 01:18:19 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/07/2024 01:18:22 PM: INFO: *** Test_015_PersonalDetails_Attachment ***
+11/07/2024 01:18:24 PM: INFO: *** Test_014_Profile_Picture ***
+11/07/2024 01:18:27 PM: INFO: *** Test_020_Qualifications_Attachment ***
+11/07/2024 01:18:29 PM: INFO: *** Test_010_Skills ***
+11/07/2024 01:18:31 PM: INFO: *** Test_008_Work_Experience ***
+11/07/2024 01:23:05 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 01:31:57 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:10:03 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:11:01 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:12:53 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:19:19 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:19:55 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:20:30 PM: INFO: *** Test_004_Edit_Contact_Details ***
+11/07/2024 04:20:46 PM: INFO: *** Succesfully logged ***
+11/07/2024 04:20:46 PM: INFO: *** Started Edit Contact Details Test ***
+11/07/2024 04:25:58 PM: INFO: *** Started Page Title Test ***
+11/07/2024 04:25:58 PM: INFO: *** Opening the url ***
+11/07/2024 04:26:05 PM: INFO: *** Page Title Test Passed ***
+11/07/2024 04:26:07 PM: INFO: *** Started Login Test ***
+11/07/2024 04:26:26 PM: ERROR: *** Login Test Failed ***
+11/07/2024 04:27:33 PM: INFO: *** Started Page Title Test ***
+11/07/2024 04:27:33 PM: INFO: *** Opening the url ***
+11/07/2024 04:27:37 PM: INFO: *** Page Title Test Passed ***
+11/07/2024 04:27:39 PM: INFO: *** Started Login Test ***
+11/07/2024 04:27:46 PM: INFO: *** Login Test Passed ***
+11/07/2024 04:30:06 PM: INFO: *** Started Page Title Test ***
+11/07/2024 04:30:06 PM: INFO: *** Opening the url ***
+11/07/2024 04:30:10 PM: INFO: *** Page Title Test Passed ***
+11/07/2024 04:30:19 PM: INFO: *** Started Login Test ***
+11/07/2024 04:30:27 PM: INFO: *** Login Test Passed ***
+11/07/2024 04:30:51 PM: INFO: *** Started Page Title Test ***
+11/07/2024 04:30:51 PM: INFO: *** Opening the url ***
+11/07/2024 04:30:54 PM: ERROR: *** Page Title Test Failed
+11/07/2024 04:30:56 PM: INFO: *** Started Login Test ***
+11/07/2024 04:31:02 PM: INFO: *** Login Test Passed ***
+11/13/2024 11:37:34 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:37:42 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:37:42 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:38:10 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:38:15 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:38:15 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:39:44 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:39:50 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:39:50 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:40:19 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:40:27 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:40:27 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:40:45 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:40:51 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:40:51 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:44:21 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:44:30 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:44:30 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:51:16 AM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 11:51:21 AM: INFO: *** Succesfully logged ***
+11/13/2024 11:51:21 AM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 11:51:35 AM: INFO: *** MyInfo Test Passed ***
+11/13/2024 11:51:35 AM: INFO: *** All Categories Succesfully Loaded ***
+11/13/2024 11:51:35 AM: INFO: *** Ending MyInfo Test ***
+11/13/2024 12:06:27 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 12:06:32 PM: INFO: *** Succesfully logged ***
+11/13/2024 12:06:32 PM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 12:07:28 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 12:07:33 PM: INFO: *** Succesfully logged ***
+11/13/2024 12:07:33 PM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 12:08:45 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 12:08:54 PM: INFO: *** Succesfully logged ***
+11/13/2024 12:08:54 PM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 12:12:55 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+11/13/2024 12:13:03 PM: INFO: *** Succesfully logged ***
+11/13/2024 12:13:03 PM: INFO: *** Started MyInfo Page Categories Testing ***
+11/13/2024 12:13:18 PM: INFO: *** MyInfo Test Passed ***
+11/13/2024 12:13:18 PM: INFO: *** All Categories Succesfully Loaded ***
+11/13/2024 12:13:18 PM: INFO: *** Ending MyInfo Test ***
+11/14/2024 12:48:21 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 12:48:38 PM: INFO: *** Succesfully logged ***
+11/14/2024 12:48:38 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 12:48:40 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 12:50:06 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 12:50:14 PM: INFO: *** Succesfully logged ***
+11/14/2024 12:50:14 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 12:50:16 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 12:50:21 PM: INFO: *** Saving info ***
+11/14/2024 12:50:21 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 12:52:26 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 12:52:34 PM: INFO: *** Succesfully logged ***
+11/14/2024 12:52:34 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 12:52:36 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 12:53:42 PM: INFO: *** Saving info ***
+11/14/2024 12:53:42 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 12:54:29 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 12:54:40 PM: INFO: *** Succesfully logged ***
+11/14/2024 12:54:40 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 12:54:42 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 12:55:06 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 12:55:14 PM: INFO: *** Succesfully logged ***
+11/14/2024 12:55:14 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 12:55:16 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:06:19 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:06:28 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:06:28 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:06:30 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:06:50 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:06:58 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:06:58 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:07:00 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:07:21 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:07:27 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:07:27 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:07:28 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:07:40 PM: INFO: *** Saving info ***
+11/14/2024 01:07:40 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 01:16:09 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:16:16 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:16:16 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:16:19 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:16:31 PM: INFO: *** Saving info ***
+11/14/2024 01:16:31 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 01:17:09 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:17:16 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:17:16 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:17:18 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:17:30 PM: INFO: *** Saving info ***
+11/14/2024 01:17:30 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 01:17:52 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:18:01 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:18:01 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:18:03 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:18:47 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:18:56 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:18:56 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:18:58 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:19:10 PM: INFO: *** Saving info ***
+11/14/2024 01:19:10 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 01:22:45 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:22:54 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:22:54 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:22:56 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:23:09 PM: INFO: *** Saving info ***
+11/14/2024 01:23:09 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 01:34:47 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:36:37 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:42:07 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:43:40 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:44:10 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:44:41 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:45:53 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:46:00 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:46:00 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:46:03 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:48:03 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:48:09 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:48:09 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:48:11 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:48:40 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 01:48:46 PM: INFO: *** Succesfully logged ***
+11/14/2024 01:48:46 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 01:48:50 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 01:49:04 PM: INFO: *** Saving info ***
+11/14/2024 01:49:04 PM: INFO: *** Personal Details Validation Started ***
+11/14/2024 04:24:23 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 04:25:50 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 04:25:56 PM: INFO: *** Succesfully logged ***
+11/14/2024 04:25:56 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 04:25:57 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 04:26:36 PM: INFO: *** Test_003_Edit_Personal_Details ***
+11/14/2024 04:26:44 PM: INFO: *** Succesfully logged ***
+11/14/2024 04:26:44 PM: INFO: *** Started Edit Personal Details Test ***
+11/14/2024 04:26:45 PM: INFO: *** Modifying Personal Details ***
+11/14/2024 04:26:58 PM: INFO: *** Saving info ***
+11/14/2024 04:26:58 PM: INFO: *** Personal Details Validation Started ***
